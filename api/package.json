@@ -1,0 +1,18 @@
+{
+  "name": "slumber-number-api",
+  "version": "1.0.0",
+  "description": "backend build and database design for slumber number app",
+  "main": "server.js",
+  "scripts": {
+    "test": "null",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "RESTful",
+    "express",
+    "node",
+    "sqlite3"
+  ],
+  "author": "gina christians christiansgina@gmail.com",
+  "license": "MIT"
+}
