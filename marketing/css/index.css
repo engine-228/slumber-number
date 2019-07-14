@@ -59,7 +59,8 @@ html {
 
 body {
     font-size: 62.5%;
-    font-family: 'PT Sans Narrow', sans-serif;
+	font-family: 'PT Sans Narrow', sans-serif;
+	background-color: gray;
 }
 
 .nav-banner {
